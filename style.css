@@ -45,6 +45,6 @@ button:hover{
     background-color: blue;
     transform: scale(1.02)
 }
-input{
-    
+h2{
+    text-align: center;
 }
